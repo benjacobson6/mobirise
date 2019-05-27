@@ -11,7 +11,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.7",
     "siteFonts": [],
-    "uniqCompNum": 14,
+    "uniqCompNum": 20,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/twit.jpg",
@@ -274,8 +274,8 @@
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -334,6 +334,57 @@
               "color": "#000"
             }
           }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\">Contact Us</a>",
+          "text1": "<strong>Contact Me</strong><br>\nEmail: <a href=\"mailto:benjacobson6@icloud.com\">benjacobson6@icloud.com</a><br><br>",
+          "text2": "<strong>Links</strong><ul><li><a href=\"index.html\">Home Page</a></li><li><a href=\"page1.html\">About Me</a></li><li><a href=\"page2.html\">Achievements</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "benjacobson6@icloud.com",
+            "alerts": {
+              "success": "Thanks for filling out form! I aim to reply to you within 24 hours!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-j"
         }
       ]
     },
@@ -464,7 +515,7 @@
           },
           "title": "When Did I Start Playing Soccer?",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>I started playing Soccer at the tender age of 5 Years Old. Soccer is the UKs biggest sport so nearly every young boy is involved with the sport at some point during their childhood. My parents seen a advert in the local newspaper for a nearby team looking for new players. Obviously being that young i can't remember it personally but i am sure it was more my parents decision to join the team rather than mine! In my first league game for the team, i was actually scouted by Liverpool Football Club to attend their 'Development Center' as they didn't actually have a Age Group team as we were only 5 years old. I played for this team for a total of three years before joining Burnley Football Club.</p>",
+          "text": "<p>I started playing Soccer at the tender age of 5 Years Old. Soccer is the UKs biggest sport so nearly every young boy is involved with the sport at some point during their childhood. My parents seen a advert in the local newspaper for a nearby team looking for new players. Obviously being that young I can't remember it personally but I am sure it was more my parents decision to join the team rather than mine! In my first league game for the team, I was actually scouted by Liverpool Football Club to attend their 'Development Center' as they didn't actually have a Age Group team as we were only 5 years old. I played for this team for a total of three years before joining Burnley Football Club.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
           "alias": "purity/components",
           "_tags": [
@@ -504,7 +555,7 @@
           },
           "title": "My Time at Burnley Football Club",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>I joined Burnley at only 8 Years Old. This is one of the first age groups that each Professional Club start at. I was scouted at one of my League games for my local team and my parents were approached by a scout afterwards to ask whether i would be interested in going down and training with the team. After my first session i was offered a Six Week Trial, which is a standard trial process at all Professional Clubs. I ended up being a Burnley player for around 3 years before leaving the club.</p>",
+          "text": "<p>I joined Burnley at only 8 Years Old. This is one of the first age groups that each Professional Club start at. I was scouted at one of my League games for my local team and my parents were approached by a scout afterwards to ask whether i would be interested in going down and training with the team. After my first session I was offered a Six Week Trial, which is a standard trial process at all Professional Clubs. I ended up being a Burnley player for around 3 years before leaving the club.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
           "alias": "purity/components",
           "_tags": [
@@ -544,7 +595,7 @@
           },
           "title": "My Time at Blackpool Football Club",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>I joined Blackpool a few months after leaving Burnley. Before joining Blackpool, i did go to Blackburn on a 6 week trial, at the end of that trial i was told that they wanted to sign me but i would have to wait as they had too many players in their squad. I didn't want to be waiting around so i went to Blackpool, on the recommendation of a soccer friend who was already playing for them. I went on a Six Week Trial and was actually offered a contract around Four Weeks into the trial. I then spent 7 years at the club. Coming all the way through their Academy System winning Player Of The Season for Three consecutive years and Player's Player Of The Season for Two consecutive years. At the end of Under 16s, i was awarded a 2-Year Scholarship which would see me progress to the Under 18 team and become a Full-Time Soccer Player. In my first month of my scholarship, i had managed to play well enough to be in the First Team squad for their Pre-Season game against Tranmere Rovers. Also, in the first year of my Scholarship, i helped the team to winning the North West Youth Alliance League &amp; Lancashire FA Youth Cup. During the second year of my Scholarship, i captained the side to the Semi-Final of the FA Youth Cup, the biggest tournament of Youth Football in England. We beat teams such as West Ham United FC, Southampton FC &amp; Blackburn Rovers FC. We played Arsenal in a Two-Legged Semi-Final where the second leg was played at The Emirates Stadium.</p>",
+          "text": "<p>I joined Blackpool a few months after leaving Burnley. Before joining Blackpool, i did go to Blackburn on a 6 week trial, at the end of that trial i was told that they wanted to sign me but I would have to wait as they had too many players in their squad. I didn't want to be waiting around so i went to Blackpool, on the recommendation of a soccer friend who was already playing for them. I went on a Six Week Trial and was actually offered a contract around Four Weeks into the trial. I then spent 7 years at the club. Coming all the way through their Academy System winning Player Of The Season for Three consecutive years and Player's Player Of The Season for Two consecutive years. At the end of Under 16s, I was awarded a 2-Year Scholarship which would see me progress to the Under 18 team and become a Full-Time Soccer Player. In my first month of my scholarship, I had managed to play well enough to be in the First Team squad for their Pre-Season game against Tranmere Rovers. Also, in the first year of my Scholarship, i helped the team to winning the North West Youth Alliance League &amp; Lancashire FA Youth Cup. During the second year of my Scholarship, i captained the side to the Semi-Final of the FA Youth Cup, the biggest tournament of Youth Football in England. We beat teams such as West Ham United FC, Southampton FC &amp; Blackburn Rovers FC. We played Arsenal in a Two-Legged Semi-Final where the second leg was played at The Emirates Stadium.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
           "alias": "purity/components",
           "_tags": [
@@ -584,7 +635,7 @@
           },
           "title": "Ending up at SCAD",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>The decision to move out to The United States was a big decision to make. The US was always a vacation destination for me every year so i think that proves that i like the country! I always wanted to move to the US hopefully to play Soccer, so when the oppurtunity came up it was one i couldn't turn down. I started the process whilst still playing for Blackpool. As an apprentice in the UK we are supervised by the LFE (League Football Education), it was via these where my links to different colleges across the US began. They got together my CV/Resume and Compilation Video and sent them over to various different colleges agross the United States. Within a week of them going out, i had about 20-25 different colleges contacting me to discuss the chance of going there. At this time, i was going through a busy period at Blackpool, being so far into the FA Youth Cup competition was a big priority not only for myself but for the rest of the squad and club so i didn't get a chance to properly speak to a majority of the colleges who had contacted me. I had to split it down to top contenders and SCAD stood out since the first day. After speaking with the coaches of the Soccer program, i would have been stupid to have turned down what they had offered me! I seen out the rest of my time at Blackpool, were being in the Semi-Final of the FA Youth Cup, was something nobody in the country would ever have expected us to be! Playing against some of the biggest teams in the country and being lucky enough to lead my team out in one of the best and biggest stadiums in the country was something that i will never forget. Once my time at Blackpool had come to an end, i met with the coaches from SCAD whilst they where on a trip to the UK. I had already made my decision up before the meeting that i was going to accept the offer of a scholarship. It was at that moment my time as a Bee started.</p>",
+          "text": "<p>The decision to move out to The United States was a big decision to make. The US was always a vacation destination for me every year so I think that proves that i like the country! I always wanted to move to the US hopefully to play Soccer, so when the oppurtunity came up it was one I couldn't turn down. I started the process whilst still playing for Blackpool. As an apprentice in the UK we are supervised by the LFE (League Football Education), it was via these where my links to different colleges across the US began. They got together my CV/Resume and Compilation Video and sent them over to various different colleges agross the United States. Within a week of them going out, I had about 20-25 different colleges contacting me to discuss the chance of going there. At this time, I was going through a busy period at Blackpool, being so far into the FA Youth Cup competition was a big priority not only for myself but for the rest of the squad and club so i didn't get a chance to properly speak to a majority of the colleges who had contacted me. I had to split it down to top contenders and SCAD stood out since the first day. After speaking with the coaches of the Soccer program, I would have been stupid to have turned down what they had offered me! I seen out the rest of my time at Blackpool, were being in the Semi-Final of the FA Youth Cup, was something nobody in the country would ever have expected us to be! Playing against some of the biggest teams in the country and being lucky enough to lead my team out in one of the best and biggest stadiums in the country was something that I will never forget. Once my time at Blackpool had come to an end, I met with the coaching staff from SCAD whilst they where on a trip to the UK. I had already made my decision up before the meeting that i was going to accept the offer of a scholarship. It was at that moment my time as a Bee started.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
           "alias": "purity/components",
           "_tags": [
@@ -595,8 +646,8 @@
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -745,8 +796,8 @@
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
